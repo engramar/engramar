@@ -1080,7 +1080,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mde/ejs</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Embedded JavaScript templates -- http://ejs.co</div>
@@ -1230,7 +1230,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 18:02:10  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 19:01:38  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
