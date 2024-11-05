@@ -584,7 +584,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 77.7k out of 148m users</span>
+                                    <span class="gh">ranked 77.7k out of 143m users</span>
                                 </div>
                                 <div class="text">Published 165 public repositories</div>
                             </div>
@@ -1033,7 +1033,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Andrew-Jang/RAGHub</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.</div>
@@ -1077,7 +1077,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2024, 18:01:07  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Nov 2024, 19:01:17  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
