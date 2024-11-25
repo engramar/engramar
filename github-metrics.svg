@@ -582,7 +582,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 78.3k out of 149m users</span>
+                                    <span class="gh">ranked 78.3k out of 148m users</span>
                                 </div>
                                 <div class="text">Published 165 public repositories</div>
                             </div>
@@ -936,7 +936,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ndendic/FastHTML-Template</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1076,7 +1076,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2024, 18:10:14  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2024, 19:01:24  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
